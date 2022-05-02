@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Iahs-Grafana" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
 </div>
   
-
+  ![Snake animation](https://github.com/ffalves1998/ffalves1998/blob/output/github-contribution-grid-snake.svg)
 <!-- 
 <div> 
 
