@@ -41,12 +41,14 @@ Here are some ideas to get you started:
   <img align="center" alt="Iahs-Grafana" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
 </div>
   
-
+##
+     
 <div> 
-
-  <a href="https://instagram.com/feh.alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernandafalv3s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/alvesff" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:fernandafalv3s@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/64/filled-message.png" target="_blank"></a>   
+  <a href="https://instagram.com/feh.alves" target="_blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" target="_blank"></a>
+  <a href="www.linkedin.com/in/alvesff" target="_blank"><img src="https://img.icons8.com/nolan/64/linkedin.png" target="_blank"></a> 
+  <a href="https://twitter.com/FehFAlves" target="_blank"><img src="https://img.icons8.com/nolan/64/twitter-squared.png" target="_blank"></a> 
+  <!--<a href=" " target="_blank"><img src="https://img.icons8.com/nolan/64/web.png" target="_blank"></a> -->
 
 </div>
 
