@@ -6,7 +6,7 @@
    Sobre mim 
 </h2>  
    
-<div aligh="left">
+<div>
   <li> 👩🏻‍💻 Analista de Sistemas</li>
   <li> 🖥 Cursando: Pós em Análise de Dados</li>
   <li> 💻 Cursando: MBA em Big Data e Inteligência Competitiva</li>
