@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 ### Olá!!! Eu sou a Fernanda Alves 😊
 <div>
   <a href="https://github.com/ffalves1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffalves1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffalves1998&layout=compact&langs_count=7&theme=dracula"/>
-  
+  <p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ffalves1998&theme=dracula" alt="ffalves1998" width="410" />
+   </p>
+</div>
+ 
 <h2> <a href="https://emoji.gg/emoji/3000-happyflowers"><img src="https://emoji.gg/assets/emoji/3000-happyflowers.gif" width="64px" height="64px" alt="HappyFlowers"></a> Sobre mim </h2>
 <div aligh="left">
   <li> 👩🏻‍💻 Analista de Sistemas</li>
@@ -44,13 +46,10 @@ Here are some ideas to get you started:
 ##
      
 <div> 
-  <a href="mailto:fernandafalv3s@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/64/filled-message.png" target="_blank"></a>   
-  <a href="https://instagram.com/feh.alves" target="_blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" target="_blank"></a>
-  <a href="www.linkedin.com/in/alvesff" target="_blank"><img src="https://img.icons8.com/nolan/64/linkedin.png" target="_blank"></a> 
-  <a href="https://twitter.com/FehFAlves" target="_blank"><img src="https://img.icons8.com/nolan/64/twitter-squared.png" target="_blank"></a> 
+  <a href="mailto:fernandafalv3s@gmail.com" target="_blank"><img src="https://img.icons8.com/wired/64/000000/apple-mail.png"></a>   
+  <a href="https://instagram.com/feh.alves" target="_blank"><img src="https://img.icons8.com/wired/64/000000/instagram--v1.png"></a>
+  <a href="www.linkedin.com/in/alvesff" target="_blank"><img src="https://img.icons8.com/wired/64/000000/linkedin--v1.png"></a> 
+  <a href="https://twitter.com/FehFAlves" target="_blank"><img src="https://img.icons8.com/wired/64/000000/twitter--v1.png"></a> 
   <!--<a href=" " target="_blank"><img src="https://img.icons8.com/nolan/64/web.png" target="_blank"></a> -->
 
 </div>
-
-
-
