@@ -29,7 +29,7 @@
 <div>
   <a href="https://github.com/ffalves1998">
   <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ffalves1998&theme=dracula" alt="ffalves1998" width="410">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ffalves1998&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ffalves1998" width="410">
    </p>
 </div> 
    
