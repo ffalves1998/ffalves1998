@@ -1,6 +1,9 @@
-<h2 align="center"> Olá!!! Eu sou a Fernanda Alves 💃🏻</h2>
+<h2 align="center"> Olá!!! Eu sou a Fernanda Alves
+<img src="https://emoji.gg/assets/emoji/6352-milk10.gif" width="64px" height="64px" alt="Milk10">
+</h2>
 <div align="center"> 
 
+   
 <h2> 
    <img src="https://img.icons8.com/wired/64/000000/user-female-circle.png"> <br>
    Sobre mim 
