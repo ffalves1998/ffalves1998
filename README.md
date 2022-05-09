@@ -1,4 +1,4 @@
-<h2 align="center"> Olá!!! Eu sou a Fernanda Alves 😊</h2>
+<h2 align="center"> Olá!!! Eu sou a Fernanda Alves 💃🏻</h2>
 <div align="center"> 
 
 <h2> 
