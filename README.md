@@ -40,6 +40,10 @@
   <a href="www.linkedin.com/in/alvesff" target="_blank"><img src="https://img.icons8.com/wired/64/000000/linkedin--v1.png"></a> 
   <a href="https://twitter.com/FehFAlves" target="_blank"><img src="https://img.icons8.com/wired/64/000000/twitter--v1.png"></a> 
 </div>
-
+   
+##
+<div> 
+  ![Snake animation](https://github.com/ffalves1998/ffalves1998/blob/output/github-contribution-grid-snake.svg)  
+</div>
    
 </div>
