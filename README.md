@@ -42,8 +42,9 @@
   <a href="https://instagram.com/feh.alves" target="_blank"><img src="https://img.icons8.com/wired/64/000000/instagram--v1.png"></a>
   <a href="www.linkedin.com/in/alvesff" target="_blank"><img src="https://img.icons8.com/wired/64/000000/linkedin--v1.png"></a> 
   <a href="https://twitter.com/FehFAlves" target="_blank"><img src="https://img.icons8.com/wired/64/000000/twitter--v1.png"></a> 
+  <a href="https://www.facebook.com/feh.alves.35" target="_blank"><img src="https://img.icons8.com/wired/64/000000/facebook--v1.png"></a>                                                                                                                            
 </div>
-   
+                                                                                                                                    
 ##
 
   ![Snake animation](https://github.com/ffalves1998/ffalves1998/blob/output/github-contribution-grid-snake.svg)  
