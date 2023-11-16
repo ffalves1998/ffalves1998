@@ -11,8 +11,8 @@
    
 <div>
   <li> 👩🏻‍💻 Analista de Sistemas</li>
-  <li> 🖥 Cursando: Pós em Análise de Dados</li>
-  <li> 💻 Cursando: MBA em Big Data e Inteligência Competitiva</li>
+  <li> MBA em Big Data e Inteligência Competitiva</li>
+  <li> 💻 Cursando: Mestrado em Propriedade Intelectual e Transferência de Tecnologia para Inovação</li>
   <li> 🧠 Aprendendo: Python, JavaScript, Ruby, Frameworks</li>
 </div>
 
